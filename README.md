@@ -1,6 +1,8 @@
 # 🧑🏻‍💻 문제풀이연습 레포지토리
   
 ## 📙 LeetCode
+### [Easy]
+#### 1. No.1886 Determine Whether Matrix Can Be Obtained By Rotation (2024/02/27)
   
 ## 🕊 programmers
 ### [SQL]
